@@ -13,4 +13,4 @@ def ask question
   end
 end
 
-ask "Do you like pizza?"
+# ask "Do you like pizza?"
